@@ -1,1 +1,1 @@
-# github-student02
+# GitHub - student02
