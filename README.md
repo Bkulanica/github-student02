@@ -1,1 +1,1 @@
-# GitHub - student02
+Moje środowisko Devops
