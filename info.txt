@@ -1,3 +1,4 @@
 Imię: Bartosz Kulanica
 Numer studenta: 02
 Specjalizacja: DevOps
+Zmiana testowa
